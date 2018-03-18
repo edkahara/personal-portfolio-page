@@ -1,0 +1,41 @@
+#about {
+  background-color: gray;
+}
+#portfolio {
+  background-color: white;
+}
+#contact {
+  background-color: purple;
+}
+.web-buttons {
+  background-color: black;
+  border-radius: 100%;
+  margin: 10px auto;
+}
+#me {
+  border-radius: 100%;
+  padding: 20px;
+}
+hr {
+  width: 500px;
+}
+#summary {
+  width: 400px;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
+.projects {
+  margin: 10px;
+}
+#send {
+  float: right;
+  clear: both;
+  margin-bottom: 10px;
+}
+.web-buttons {
+  background-color: white;
+  border-radius: 100%;
+  margin: 10px auto;
+}
